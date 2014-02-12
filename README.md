@@ -1,8 +1,8 @@
 # Virginia Precinct Level Maps 2013
 
-A map containing all election precincts in the state of Virginia as of November 2013. These maps were compiled by gathering individual map files from each locality in the state and compiling them together. Some localities did not have a digital version of their map, so VPAP had to generate these maps based on images of the locality's precinct boundaries.
+A map containing all election precincts in the state of Virginia as of November 2013. This map was compiled by gathering individual map files from each locality in the state and compiling them together. Some localities did not have a digital version of their map, so VPAP had to generate these maps based on images of the locality's precinct boundaries.
 
-The map has been run through [mapshaper](http://www.mapshaper.org/) to simplify them and reduce their size for web display purposes. It is provided in both shapefile and GeoJSON format.
+The map has been run through [mapshaper](http://www.mapshaper.org/) to simplify it and reduce its size for web display purposes. It is provided in both shapefile and GeoJSON format.
 
 ### Attributes
 
